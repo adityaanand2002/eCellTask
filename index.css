@@ -77,15 +77,12 @@ header a:hover{
     width: 120px;
     height: 68px;
   }
-  
-  /* Hide default HTML checkbox */
   .switch input {
     opacity: 0;
     width: 0;
     height: 0;
   }
   
-  /* The slider */
   .slider {
     position: absolute;
     cursor: pointer;
